@@ -1,3 +1,16 @@
-h1 {
-    color: red;
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    height: 700px;
+    background-image: url(../images/cow.jpg);
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.hero h1 {
+    text-align: center;
+    color: white;
 }
